@@ -1,4 +1,4 @@
-# docker-openjdk8-alpine-plus-fonts
+# docker-openjdk8-alpine-fonts
 
 ## Purpose
 
